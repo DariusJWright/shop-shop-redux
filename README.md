@@ -14,10 +14,13 @@ A MERN E-commerce app.
 * Node
 * GraphQL
 
+## Instructions
+To test payment, use 4242 4242 4242 4242 as the credit card number.  All other payment information can be made up.
 
 ## Links
 * Repository: https://github.com/DariusJWright/shop-shop-redux
 * Deployed Site: https://pacific-refuge-36806.herokuapp.com/
 
 ## Screenshot
-![screenshot](https://user-images.githubusercontent.com/64335245/95939950-ddae9000-0da2-11eb-8468-1d4a9dd22b64.PNG)
+![screenshot](https://user-images.githubusercontent.com/64335245/96205581-850afe80-0f2c-11eb-8d49-871c0473a3de.PNG)
+
